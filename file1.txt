@@ -1,1 +1,1 @@
-Hi, This is the first commit from master
+Hi, Modified file1 in branchB
